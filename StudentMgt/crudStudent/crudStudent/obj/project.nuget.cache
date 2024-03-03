@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Jq2JU5vBHh4H0V8eKpsWVLbafC62jHjKpmxOhBVCDzL/chZ+qdiFVa/3FLMoan2WiaDURDd4FhZOx7guNrf1Wg==",
+  "dgSpecHash": "TDGHRQg0z+eatULGagXB+hpS8pVJfiIUeeQxVxywXGh7I6QCyrdhAhL8IDlfuCTqMVB8Yj7+/yjoOuFohrxc5Q==",
   "success": true,
-  "projectFilePath": "D:\\GITHUB\\StudentMgt\\crudStudent\\crudStudent\\crudStudent.csproj",
+  "projectFilePath": "D:\\GITHUB\\Registration\\StudentmgtSystem\\StudentMgt\\crudStudent\\crudStudent\\crudStudent.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ish\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Ish\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

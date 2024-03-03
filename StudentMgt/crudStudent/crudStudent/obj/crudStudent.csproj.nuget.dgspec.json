@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\GITHUB\\StudentMgt\\crudStudent\\crudStudent\\crudStudent.csproj": {}
+    "D:\\GITHUB\\Registration\\StudentmgtSystem\\StudentMgt\\crudStudent\\crudStudent\\crudStudent.csproj": {}
   },
   "projects": {
-    "D:\\GITHUB\\StudentMgt\\crudStudent\\crudStudent\\crudStudent.csproj": {
+    "D:\\GITHUB\\Registration\\StudentmgtSystem\\StudentMgt\\crudStudent\\crudStudent\\crudStudent.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GITHUB\\StudentMgt\\crudStudent\\crudStudent\\crudStudent.csproj",
+        "projectUniqueName": "D:\\GITHUB\\Registration\\StudentmgtSystem\\StudentMgt\\crudStudent\\crudStudent\\crudStudent.csproj",
         "projectName": "crudStudent",
-        "projectPath": "D:\\GITHUB\\StudentMgt\\crudStudent\\crudStudent\\crudStudent.csproj",
+        "projectPath": "D:\\GITHUB\\Registration\\StudentmgtSystem\\StudentMgt\\crudStudent\\crudStudent\\crudStudent.csproj",
         "packagesPath": "C:\\Users\\Ish\\.nuget\\packages\\",
-        "outputPath": "D:\\GITHUB\\StudentMgt\\crudStudent\\crudStudent\\obj\\",
+        "outputPath": "D:\\GITHUB\\Registration\\StudentmgtSystem\\StudentMgt\\crudStudent\\crudStudent\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ish\\AppData\\Roaming\\NuGet\\NuGet.Config",
