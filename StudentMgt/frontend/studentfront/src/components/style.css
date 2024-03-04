@@ -1,0 +1,91 @@
+/* grid to two coloumns  */
+
+/* styles.css */
+
+.form-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr); /* Two columns */
+    gap: 20px; /* Spacing between columns */
+  }
+  
+  .form-group {
+    display: grid;
+    gap: 10px;
+  }
+  
+  .form-group div {
+    display: grid;
+    gap: 5px;
+  }
+  
+/* Form container */
+.container {
+    width: 50%; /* Adjust width as needed */
+    margin: 0 auto; /* Center the container */
+}
+
+/* Form title */
+h1 {
+    text-align: center;
+}
+
+/* Form fields */
+.form-group {
+    margin-bottom: 20px; /* Spacing between form groups */
+}
+
+/* Labels */
+label {
+    font-weight: bold;
+}
+
+/* Input fields */
+.form-control {
+    width: 100%; /* Full width */
+    padding: 10px; /* Adjust padding as needed */
+    border: 1px solid #ccc; /* Border color */
+    border-radius: 5px; /* Rounded corners */
+}
+
+/* Buttons */
+.btn {
+    padding: 10px 20px; /* Adjust padding as needed */
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.btn-primary {
+    background-color: blue;
+    color: white;
+}
+
+.btn-warning {
+    background-color: orange;
+    color: white;
+}
+
+.btn-danger {
+    background-color: red;
+    color: white;
+}
+
+/* Table */
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th, td {
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}
+
+th {
+    background-color: #f2f2f2;
+}
+
+tbody tr:hover {
+    background-color: #f5f5f5;
+}
